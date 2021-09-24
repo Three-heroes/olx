@@ -1,0 +1,19 @@
+.obwiy{
+    width: 100%;
+    background-color: #F2F4F5;
+    height: 120px;
+}
+.iconga:hover{
+    cursor: pointer;
+background-color: yellow;
+color: black !important;
+}
+.input1{
+    width: 50% !important;
+}
+input{
+    outline: none !important;
+}
+input.active{
+    border: none !important;
+}

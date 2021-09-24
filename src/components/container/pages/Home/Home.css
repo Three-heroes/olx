@@ -1,0 +1,27 @@
+.categories{
+    display: flex;
+    flex-wrap: wrap;
+    padding-top: 60px;
+}
+a, a:hover{
+    text-decoration: none;
+    color: black;
+}
+
+.category{
+    margin: 0 10px;
+    text-align: center;
+   
+}
+.circle{
+    border-radius: 50%;
+    height: 80px;
+    width: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 10px auto;
+}
+.circle img{
+    width: 80%;
+}
